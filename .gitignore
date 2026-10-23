@@ -1,0 +1,19 @@
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# 编辑器 / IDE
+.vscode/
+.idea/
+*.suo
+*.user
+
+# 临时文件与日志
+*.tmp
+*.log
+~$*
+
+# 构建产物
+bin/
+obj/
